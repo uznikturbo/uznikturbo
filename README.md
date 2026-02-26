@@ -131,7 +131,7 @@ class uznikturbo:
 
 [![Telegram](https://img.shields.io/badge/Telegram-@uznikturbo-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/uznikturbo)
 [![GitHub](https://img.shields.io/badge/GitHub-uznikturbo-bd93f9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uznikturbo)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uznikturbo/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-uznikturbo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uznikturbo)
 </div>
 
 ---
