@@ -23,13 +23,12 @@ I am a developer from Ukraine. I'm passionate about building robust backend syst
 
 ### 📊 GitHub Stats
 
-<p align="left">
-<a href="https://github.com/uznikturbo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=uznikturbo&show_icons=true&theme=neon&hide_border=true&bg_color=282a36&title_color=bd93f9&icon_color=ff79c6&text_color=f8f8f2" alt="uznikturbo's GitHub Stats" height="170" />
-</a>
-<a href="https://github.com/uznikturbo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uznikturbo&layout=compact&theme=neon&hide_border=true&bg_color=282a36&title_color=bd93f9&text_color=f8f8f2" alt="Most Used Languages" height="170" />
-</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=uznikturbo&show_icons=true&theme=dracula&count_private=true&title_color=bd93f9&icon_color=ff79c6&bg_color=282a36&text_color=f8f8f2&border_radius=10" alt="uznikturbo's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uznikturbo&layout=compact&theme=dracula&title_color=bd93f9&icon_color=ff79c6&bg_color=282a36&text_color=f8f8f2&border_radius=10" alt="uznikturbo's Top Languages" />
 </p>
 
 ---
