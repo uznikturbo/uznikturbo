@@ -1,43 +1,126 @@
-# Hi there, I'm uznikturbo! 👋
+<div align="center">
 
-### 👨‍💻 Backend Developer | Python Enthusiast
+```
+██╗   ██╗███████╗███╗   ██╗██╗██╗  ██╗████████╗██╗   ██╗██████╗ ██████╗  ██████╗
+██║   ██║╚══███╔╝████╗  ██║██║██║ ██╔╝╚══██╔══╝██║   ██║██╔══██╗██╔══██╗██╔═══██╗
+██║   ██║  ███╔╝ ██╔██╗ ██║██║█████╔╝    ██║   ██║   ██║██████╔╝██████╔╝██║   ██║
+██║   ██║ ███╔╝  ██║╚██╗██║██║██╔═██╗    ██║   ██║   ██║██╔══██╗██╔══██╗██║   ██║
+╚██████╔╝███████╗██║ ╚████║██║██║  ██╗   ██║   ╚██████╔╝██║  ██║██████╔╝╚██████╔╝
+ ╚═════╝ ╚══════╝╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝  ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═════╝  ╚═════╝
+```
 
-I am a developer from Ukraine. I'm passionate about building robust backend systems, automating things with Telegram bots.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%90%8D;Python+%26+FastAPI+Enthusiast;Telegram+Bot+Architect;Building+things+from+Ukraine+%F0%9F%87%BA%F0%9F%87%A6" alt="Typing SVG" />
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=uznikturbo&color=bd93f9&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
 
 ---
 
-### 🚀 Tech Stack & Tools
+<img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+### 👾 About Me
+
+```python
+class uznikturbo:
+    location  = "Ukraine 🇺🇦"
+    role      = "Backend Developer"
+    passion   = ["Python", "Telegram Bots", "FastAPI"]
+    hobbies   = ["Binding of Isaac 🧩", "Clash Royale ⚔️"]
+    goal      = "Dead God achievement 💀"
+    contact   = "t.me/uznikturbo"
+```
+
+<br clear="right"/>
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Aiogram](https://img.shields.io/badge/Aiogram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
 
 ---
 
-### 🛠️ What I'm working on
-* 🎬 **Cine Bot** — A specialized Telegram bot for movie enthusiasts.
-* 🌐 **Service Platform** — Developing a full-featured service website.
+### 🚀 Current Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🎬 Cine Bot</h3>
+      <p align="center">
+        A specialized Telegram bot for movie enthusiasts.<br/>
+        Discover, track and discuss films — all inside Telegram.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-In%20Development-bd93f9?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Stack-Aiogram%20%7C%20FastAPI%20%7C%20PostgreSQL-6272a4?style=flat-square"/>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🌐 Service Platform</h3>
+      <p align="center">
+        Full-featured service website with modern backend architecture and clean API design.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-In%20Development-bd93f9?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Stack-FastAPI%20%7C%20PostgreSQL%20%7C%20Docker-6272a4?style=flat-square"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uznikturbo&show_icons=true&theme=dracula&count_private=true&title_color=bd93f9&icon_color=ff79c6&bg_color=282a36&text_color=f8f8f2&border_radius=10" alt="uznikturbo's GitHub Stats" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=uznikturbo&show_icons=true&theme=dracula&count_private=true&title_color=bd93f9&icon_color=ff79c6&bg_color=282a36&text_color=f8f8f2&border_radius=10&hide_border=false&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uznikturbo&layout=compact&theme=dracula&title_color=bd93f9&icon_color=ff79c6&bg_color=282a36&text_color=f8f8f2&border_radius=10&hide_border=false&langs_count=8" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uznikturbo&layout=compact&theme=dracula&title_color=bd93f9&icon_color=ff79c6&bg_color=282a36&text_color=f8f8f2&border_radius=10" alt="uznikturbo's Top Languages" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uznikturbo&theme=dracula&background=282a36&ring=bd93f9&fire=ff79c6&currStreakLabel=bd93f9&sideLabels=f8f8f2&border=6272a4&stroke=6272a4" />
+</div>
 
 ---
 
 ### 🕹️ Beyond the Code
-* 🧩 Trying to reach Dead God in **The Binding of Isaac: Repentance**.
-* ⚔️ Climbing the ladder in **Clash Royale**.
+
+<div align="center">
+
+| Game | Status |
+|------|--------|
+| 🧩 The Binding of Isaac: Repentance | Grinding towards **Dead God** 💀 |
+| ⚔️ Clash Royale | Climbing the ladder 📈 |
+
+</div>
 
 ---
 
-### 📫 Reach Me
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/uznikturbo)
+### 📫 Connect with Me
+
+<div align="center">
+
+[![Telegram](https://img.shields.io/badge/Telegram-@uznikturbo-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/uznikturbo)
+[![GitHub](https://img.shields.io/badge/GitHub-uznikturbo-bd93f9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uznikturbo)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=bd93f9&height=100&section=footer&reversal=false" />
+</div>
