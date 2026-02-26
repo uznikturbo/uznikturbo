@@ -30,7 +30,7 @@ class uznikturbo:
     passion   = ["Python", "Telegram Bots", "FastAPI", "Django", "Flask"]
     hobbies   = ["Binding of Isaac 🧩", "Clash Royale ⚔️", "Reverse Engineering"]
     goal      = "Dead God achievement 💀"
-    contact   = "t.me/uznikturbo"
+    contact   = {"Telegram": "https://t.me/uznikturbo", "LinkedIn": "https://www.linkedin.com/in/uznikturbo"}
 ```
 
 <br clear="right"/>
