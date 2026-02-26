@@ -67,8 +67,8 @@ class uznikturbo:
         Discover, track and discuss films — all inside Telegram.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Status-In%20Development-bd93f9?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Stack-Aiogram%20%7C%20FastAPI%20%7C%20PostgreSQL-6272a4?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Status-Completed-50fa7b?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Stack-Aiogram%20%7C%20PostgreSQL-6272a4?style=flat-square"/>
       </p>
     </td>
     <td width="50%">
@@ -77,10 +77,23 @@ class uznikturbo:
         Full-featured service website with modern backend architecture and clean API design.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Status-In%20Development-bd93f9?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Stack-FastAPI%20%7C%20PostgreSQL%20%7C%20Docker-6272a4?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Status-Completed-50fa7b?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Stack-FastAPI%20%7C%20PostgreSQL%20%7C%20Docker%20%7C%20React-6272a4?style=flat-square"/>
       </p>
     </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🍽️ Restaurant Site</h3>
+      <p align="center">
+        Full-featured restaurant website with online ordering and integrated payment via LiqPay.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-Completed-50fa7b?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Stack-Flask%20%7C%20PostgreSQL%20%7C%20LiqPay-6272a4?style=flat-square"/>
+      </p>
+    </td>
+    <td width="50%"></td>
   </tr>
 </table>
 
