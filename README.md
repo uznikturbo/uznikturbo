@@ -27,8 +27,8 @@
 class uznikturbo:
     location  = "Ukraine 🇺🇦"
     role      = "Backend Developer"
-    passion   = ["Python", "Telegram Bots", "FastAPI"]
-    hobbies   = ["Binding of Isaac 🧩", "Clash Royale ⚔️"]
+    passion   = ["Python", "Telegram Bots", "FastAPI", "Django", "Flask"]
+    hobbies   = ["Binding of Isaac 🧩", "Clash Royale ⚔️", "Reverse Engineering"]
     goal      = "Dead God achievement 💀"
     contact   = "t.me/uznikturbo"
 ```
@@ -43,6 +43,8 @@ class uznikturbo:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Aiogram](https://img.shields.io/badge/Aiogram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -116,7 +118,7 @@ class uznikturbo:
 
 [![Telegram](https://img.shields.io/badge/Telegram-@uznikturbo-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/uznikturbo)
 [![GitHub](https://img.shields.io/badge/GitHub-uznikturbo-bd93f9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uznikturbo)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uznikturbo/)
 </div>
 
 ---
