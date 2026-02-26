@@ -104,6 +104,7 @@ class uznikturbo:
 |------|--------|
 | 🧩 The Binding of Isaac: Repentance | Grinding towards **Dead God** 💀 |
 | ⚔️ Clash Royale | Climbing the ladder 📈 |
+| 🔬 Reverse Engineering | Trying to understand how things work under the hood |
 
 </div>
 
