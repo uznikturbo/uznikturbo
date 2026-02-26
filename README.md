@@ -87,12 +87,11 @@ class uznikturbo:
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=uznikturbo&show_icons=true&theme=dracula&count_private=true&title_color=bd93f9&icon_color=ff79c6&bg_color=282a36&text_color=f8f8f2&border_radius=10&hide_border=false&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uznikturbo&layout=compact&theme=dracula&title_color=bd93f9&icon_color=ff79c6&bg_color=282a36&text_color=f8f8f2&border_radius=10&hide_border=false&langs_count=8" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uznikturbo&theme=dracula" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uznikturbo&theme=dracula&background=282a36&ring=bd93f9&fire=ff79c6&currStreakLabel=bd93f9&sideLabels=f8f8f2&border=6272a4&stroke=6272a4" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=uznikturbo&theme=dracula&background=282a36&ring=bd93f9&fire=ff79c6&currStreakLabel=bd93f9&sideLabels=f8f8f2&border=6272a4" />
 </div>
 
 ---
