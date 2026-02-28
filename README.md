@@ -134,8 +134,8 @@ class uznikturbo:
 
 <div align="center">
 
-|  | Game | Status |
-|--|------|--------|
+|  | Hobby | Status |
+|--|-------|--------|
 | 🧩 | The Binding of Isaac: Repentance | Grinding towards **Dead God** 💀 |
 | ⚔️ | Clash Royale | Climbing the ladder 📈 |
 | 🔬 | Reverse Engineering | Understanding the machine |
