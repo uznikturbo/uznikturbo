@@ -105,10 +105,14 @@ class uznikturbo:
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">💡 More Coming Soon...</h3>
+      <h3 align="center">🛍️ Marketplace</h3>
       <div align="center">
-        <br/>
-        <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1000&color=C77DFF&center=true&vCenter=true&width=300&lines=Always+building+something+new...;Stay+tuned+%F0%9F%94%AE" />
+        <p>Multi-vendor e-commerce platform with secure user authentication, catalog management, and integrated LiqPay payments.</p>
+        <img src="https://img.shields.io/badge/Status-✓ Completed-50fa7b?style=flat-square&labelColor=282a36"/>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/LiqPay-FF6B35?style=flat-square&logoColor=white"/>
       </div>
     </td>
   </tr>
